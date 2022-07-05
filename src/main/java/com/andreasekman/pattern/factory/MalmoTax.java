@@ -1,9 +1,9 @@
-package Factory;
+package com.andreasekman.pattern.factory;
 
 public class MalmoTax extends SalesTax {
 
   @Override
-  void getRate() {
+  public void getRate() {
     rate = 0.34;
   }
 }

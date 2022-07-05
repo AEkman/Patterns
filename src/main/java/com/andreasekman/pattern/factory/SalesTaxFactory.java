@@ -1,4 +1,4 @@
-package Factory;
+package com.andreasekman.pattern.factory;
 
 public class SalesTaxFactory {
 
